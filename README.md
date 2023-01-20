@@ -1,7 +1,7 @@
-Hi, I’m @beneeb304 (Ben) 👋
+Hi, I’m @beneeb304 (Ben)
 
-I am an undergrad at Saginaw Valley State University 🐦 studying Computer Science 🖥️
+I'm an SVSU Computer Science Graduate (2022)
 
-Consider this my Portfolio 📁 of cool projects that I have completed ✔️
+This is my collection of projects that I deem cool enough for a portfolio
 
 Please enjoy!
